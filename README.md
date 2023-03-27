@@ -1,15 +1,15 @@
 Hello there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rodrigo J. R. Nunes
 ===========================================================================================================================================
 
-Full-Stack Software Developer
+Full-stack Software Developer
 -----------------------------
 
-I'm a  Full-Stack developer and Civil Engineer with experience in software development, research, teaching, engineering, and mentoring.
+I'm a  Full-stack developer and Civil Engineer with experience in software development, research, teaching, engineering, and mentoring.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [hannziegel@gmail.com](mailto:hannziegel@gmail.com)
 * 🧠  I'm learning / improving Ruby on Rails and React
-* 🤝  I'm open to collaborating on anything interesting, if you don't have any ideas, let's brainstorm some
+* 🤝  I'm open to collaborating on any project and looking for remote jobs opportunities, open to relocate
 * ⚡  You never see me and Batman at the same time in the same place, just saying...
 
 ### Skills
